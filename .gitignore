@@ -1,0 +1,28 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# Virtual environment
+venv/
+.venv/
+
+# Dataset — skip data files, keep Python scripts
+EOSC_FL_dataset/**/_chunks/
+EOSC_FL_dataset/**/*.pdf
+EOSC_FL_dataset/**/*.html
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# Environment files
+.env

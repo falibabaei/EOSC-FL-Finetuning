@@ -1,0 +1,15 @@
+client_id,filename,category,subcategory,source_url,token_count,num_chunks,date
+Client_1_EOSC_Association,EOSC_SRIA_1.3.pdf,policies,,https://eosc.eu/wp-content/uploads/2024/12/20241031_SRIA_1.3_final_Annex.pdf,96215,188,2026-06-22
+Client_1_EOSC_Association,EOSC_SRIA_1.2.pdf,policies,,https://eosc.eu/wp-content/uploads/2023/12/20231114_SRIA_1.2_final2.pdf,92255,181,2026-06-22
+Client_1_EOSC_Association,EOSC_SRIA_1.1.pdf,governance,,https://eosc.eu/wp-content/uploads/2023/08/SRIA-1.1-final.pdf,87813,172,2026-06-22
+Client_1_EOSC_Association,eosc_sria_overview.html,governance,,https://eosc.eu/eosc-about/sria-mar,1393,3,2026-06-22
+Client_1_EOSC_Association,EOSC_SRIA_1.3_draft.pdf,task_force_reports,,https://eosc.eu/wp-content/uploads/2024/11/20241031_SRIA_1.3_final_Annex_to-be-approved.pdf,105961,207,2026-06-22
+Client_2_EU_Commission,eosc_strategy.html,strategy,,https://research-and-innovation.ec.europa.eu/strategy/strategy-research-and-innovation/our-digital-future/open-science/european-open-science-cloud-eosc_en,790,2,2026-06-22
+Client_2_EU_Commission,eosc_digital_strategy.html,strategy,,https://digital-strategy.ec.europa.eu/en/policies/open-science-cloud,737,2,2026-06-22
+Client_2_EU_Commission,eosc_eu_home.html,implementation,,https://eosc.eu/,92,1,2026-06-22
+Client_2_EU_Commission,horizon_europe_strategic_plan_2025_2027.pdf,roadmaps,,https://eur-lex.europa.eu/resource.html?uri=cellar:f097c300-e758-11ee-9ea8-01aa75ed71a1.0002.02/DOC_2,14,1,2026-06-22
+Client_3_EOSC_Projects,EOSC_Focus.html,EOSC_Focus,,https://cordis.europa.eu/project/id/101058432,681,2,2026-06-22
+Client_3_EOSC_Projects,EOSC_Future.html,EOSC_Future,,https://cordis.europa.eu/project/id/101017536,13130,26,2026-06-22
+Client_3_EOSC_Projects,AI4EOSC.html,AI4EOSC,,https://cordis.europa.eu/project/id/101058593,779,2,2026-06-22
+Client_4_Academic,survey_results.json,surveys,,https://api.openalex.org/works?filter=title.search:European+Open+Science+Cloud+survey&sort=cited_by_count:desc&per_page=25,890,2,2026-06-22
+Client_4_Academic,eosc_papers.json,research_papers,,https://api.openalex.org/works?filter=title.search:European+Open+Science+Cloud&sort=cited_by_count:desc&per_page=50,14337,28,2026-06-22

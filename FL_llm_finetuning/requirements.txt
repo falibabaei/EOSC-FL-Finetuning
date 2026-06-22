@@ -1,0 +1,10 @@
+nvflare[all]>=2.8.0
+torch>=2.0.0
+transformers>=4.40.0
+peft>=0.10.0
+datasets>=2.14.0
+accelerate>=0.28.0
+requests>=2.31.0
+tqdm>=4.66.0
+pdfplumber>=0.10.0
+trafilatura>=2.0.0
